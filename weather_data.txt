@@ -1,0 +1,16 @@
+
+
+		Weather Stats for - RANCHI  || 22 Jun 2021 | 11:33:57 AM
+
+Current temperature is: 31.06 deg C
+Current weather desc  : haze
+Current Humidity      : 66% 
+Current wind speed    : {} Kmph 
+
+
+		Weather Stats for - DHANBAD  || 22 Jun 2021 | 11:34:22 AM
+
+Current temperature is: 31.50 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 59% 
+Current wind speed    : {} Kmph 
